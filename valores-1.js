@@ -1,11 +1,13 @@
-//Tipos de datos primitivos
+//Valores primitivos
 40 //numero
-"César García Cabrera" //String
-true //boolean
-false //boolean
+"César García Cabrera" //String (texto)
+true //boolean (verdadero)
+false //boolean (falso)
 
-null
-undefined
+//valores vacios
+null //valores placeholder (valor faltante , vacio)
+undefined //evitar lo (valor reservado que genera JavaScript)
 
-[1,2,3] //Objeto
-{user: "César García Cabrera"} //Objeto
+//Valores tipo objetos o no primitivos 
+[1,2,3] //Array //valores primitivos adentro de los corchetes
+{user: "César García Cabrera"} //Valor tipo objeto //llaves
